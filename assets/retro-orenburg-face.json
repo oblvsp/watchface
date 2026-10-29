@@ -1,0 +1,137 @@
+{
+  "bg": "#c9362f",
+  "items": [
+    {
+      "type": "rect",
+      "x": 8,
+      "y": 9,
+      "w": 224,
+      "h": 222,
+      "r": 18,
+      "color": "#e5483c"
+    },
+    {
+      "type": "line",
+      "x": 18,
+      "y": 222,
+      "x2": 222,
+      "y2": 222,
+      "w": 2,
+      "color": "#ff8170"
+    },
+    {
+      "type": "circle",
+      "x": 55,
+      "y": 25,
+      "r": 7,
+      "color": "#242522",
+      "fill": true
+    },
+    {
+      "type": "circle",
+      "x": 120,
+      "y": 25,
+      "r": 7,
+      "color": "#242522",
+      "fill": true
+    },
+    {
+      "type": "circle",
+      "x": 185,
+      "y": 25,
+      "r": 7,
+      "color": "#242522",
+      "fill": true
+    },
+    {
+      "type": "rect",
+      "x": 15,
+      "y": 43,
+      "w": 210,
+      "h": 139,
+      "r": 10,
+      "color": "#111918"
+    },
+    {
+      "type": "rect",
+      "x": 20,
+      "y": 48,
+      "w": 200,
+      "h": 129,
+      "r": 7,
+      "color": "#061812"
+    },
+    {
+      "type": "text",
+      "x": 120,
+      "y": 65,
+      "text": "{dow3}  {day} {mon3}",
+      "font": 2,
+      "color": "#62d8ae",
+      "align": "mc",
+      "bg": "#061812",
+      "pad": 12
+    },
+    {
+      "type": "text",
+      "x": 120,
+      "y": 113,
+      "text": "{time}",
+      "font": 8,
+      "color": "#43ffc0",
+      "align": "mc",
+      "bg": "#061812",
+      "pad": 12
+    },
+    {
+      "type": "text",
+      "x": 120,
+      "y": 157,
+      "text": "{city}",
+      "font": 2,
+      "color": "#a3f4d2",
+      "align": "mc",
+      "bg": "#061812",
+      "pad": 24
+    },
+    {
+      "type": "icon",
+      "x": 45,
+      "y": 204,
+      "size": 28,
+      "icon": "{icon}",
+      "bg": "#e5483c"
+    },
+    {
+      "type": "text",
+      "x": 91,
+      "y": 204,
+      "text": "{temp} {unit}",
+      "font": 4,
+      "color": "#ffffff",
+      "align": "mc",
+      "bg": "#e5483c",
+      "pad": 20
+    },
+    {
+      "type": "text",
+      "x": 163,
+      "y": 204,
+      "text": "{hum}%",
+      "font": 2,
+      "color": "#fff0d4",
+      "align": "mc",
+      "bg": "#e5483c",
+      "pad": 18
+    },
+    {
+      "type": "line",
+      "x": 24,
+      "y": 227,
+      "x2": 216,
+      "y2": 227,
+      "w": 1,
+      "color": "#ff8170"
+    }
+  ]
+}
